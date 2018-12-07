@@ -1,0 +1,7 @@
+{
+ "TimeCalibLoader_ConfigFile_std::string":"timeSynchronisationFileName.txt",
+ "SignalFinder_EdgeMaxTime_float":"20000",
+ "SignalFinder_LeadTrailMaxTime_float":"300000",
+ "HitFinder_TimeWindowWidth_float":"25000",
+ "EventFinder_EventTime_float":"5000"
+}
